@@ -145,6 +145,10 @@ p.short {
   margin-bottom:20px;
 }
 
+p.center {
+  text-align:center;
+}
+
 body .container .half-left p, 
 body .container .half-right p {
   margin:20px 0 0 0;
